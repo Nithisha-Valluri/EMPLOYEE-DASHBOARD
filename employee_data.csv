@@ -1,0 +1,22 @@
+id,name,Department,Salary,Designation,DoJ,EndDate,Category,status,Gender,Dob
+9874,Ramesh,Clothing,120000,Assistant Registrar,2024-01-15,2025-08-12,General,Active,Male,1989-10-15
+9875,Priya,IT,95000,Programmer,2022-05-10,,OBC,Active,Female,1992-07-21
+9876,Karthik,Admin,60000,Clerk,2021-06-18,2025-01-31,SC,Relieved,Male,1990-02-03
+9877,Sneha,IT,105000,Sr. Developer,2020-09-30,,General,Active,Female,1988-12-12
+9878,Arjun,HR,78000,Executive,2023-01-05,,ST,Active,Male,1994-03-25
+9879,Deepa,Finance,115000,Accounts Officer,2021-07-01,,General,Active,Female,1991-05-14
+9880,Vivek,IT,98000,Developer,2019-04-22,2024-09-01,OBC,Lien,Male,1993-09-09
+9881,Meena,Clothing,72000,Supervisor,2022-10-11,,SC,Active,Female,1987-11-30
+9882,Sanjay,Admin,63000,Clerk,2020-12-01,2023-12-31,OBC,Relieved,Male,1995-06-17
+9883,Kavitha,IT,99000,Programmer,2023-02-15,,General,Active,Female,1990-08-05
+9884,Mohan,HR,89000,Assistant,2021-08-21,,General,Active,Male,1986-04-11
+9885,Rekha,Admin,70000,Clerk,2018-11-30,,SC,Active,Female,1991-01-02
+9886,Prakash,Finance,110000,Auditor,2020-07-12,,ST,Active,Male,1988-10-10
+9887,Lakshmi,IT,95000,Developer,2019-06-03,2025-06-01,General,Lien,Female,1992-02-20
+9888,Anand,Sales,87000,Sales Executive,2023-05-20,,OBC,Active,Male,1996-07-13
+9889,Ritu,Admin,62000,Clerk,2022-01-18,,SC,Active,Female,1990-12-22
+9890,Rohit,Clothing,76000,Assistant,2021-10-10,,General,Active,Male,1993-05-19
+9891,Anitha,HR,82000,HR Officer,2022-08-01,,OBC,Active,Female,1989-03-07
+9892,Harish,Finance,118000,Sr. Accounts Officer,2020-03-14,,General,Active,Male,1987-06-24
+9893,Sonia,Sales,83000,Sales Executive,2023-09-05,,ST,Active,Female,1994-11-28
+9894,Rajesh,IT,102000,Sr. Developer,2018-01-29,,General,Active,Male,1985-08-18
